@@ -1,0 +1,11 @@
+{
+  "name": "name",
+  "description": "description",
+  "authors": "Nate Slowey",
+  "version": "1.0.0",
+  "main": "distance-calculator/src/distance-calculator.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js"
+  },
+  "dependencies": {}
+}
